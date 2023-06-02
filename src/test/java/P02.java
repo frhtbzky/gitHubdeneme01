@@ -11,5 +11,7 @@ public class P02 {
 
         System.out.println("gitadd-*commit-push");
 
+        System.out.println("merhaba ben wise");
+
     }
 }
