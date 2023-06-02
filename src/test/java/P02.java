@@ -4,5 +4,9 @@ public class P02 {
 
         System.out.println("Heello again");
 
+        System.out.println("=========================");
+
+        System.out.println("have a wise day");
+
     }
 }
